@@ -1,70 +1,58 @@
-# Hyderabadi Veg Dum Biryani Recipe
+IyBIeWRlcmFiYWRpIFZlZyBEdW0gQmlyaWFuaSBSZWNpcGUKCk1ha2luZyBIeWRlcmFiYWRpIFZlZyBEdW0gQmlyaWFuaSBpcyBhIGRlbGlnaHRmdWwgY29va2luZyBwcm9jZXNzIHRoYXQgY29tYmluZXMgZnJhZ3JhbnQgYmFzbWF0aSByaWNlIHdpdGggbWl4ZWQgdmVnZXRhYmxlcyBhbmQgYXJvbWF0aWMgc3BpY2VzLiBIZXJlJ3MgYSBzdGVwLWJ5LXN0ZXAgZ3VpZGU6CgojIyBJbmdyZWRpZW50cwoKKipGb3IgdGhlIFJpY2U6KiogCi0gMiBjdXBzIGJhc21hdGkgcmljZQotIDQgY3VwcyB3YXRlcgotIDItMyBjbG92ZXMKLSAxIGJheSBsZWFmCi0gMS1pbmNoIGNpbm5hbW9uIHN0aWNrCi0gU2FsdCwgdG8gdGFzdGUKCioqRm9yIHRoZSBWZWdldGFibGVzOioqCi0gMiB0YWJsZXNwb29ucyBnaGVlIG9yIG9pbAotIDEgdGVhc3Bvb24gY3VtaW4gc2VlZHMKLSAyIG9uaW9ucywgdGhpbmx5IHNsaWNlZAotIDEgdGVhc3Bvb24gZ2luZ2VyLWdhcmxpYyBwYXN0ZQotIDEgY3VwIG1peGVkIHZlZ2V0YWJsZXMgKGUuZywuIGNhcnJvdHMsIHBlYXMsIHBvdGF0b2VzLCBhbmQgYmVhbnMpLCBkaWNlZAotIC81IGN1cCB5b2d1cnQKLSAyIHRhYmxlc3Bvb24gYmlyeWFuaSBtYXNhbGEKLSAvMiBoYWx2ZXNwb29uIHR1cm1lcmljIHBvd2RlcgotIDEgdGVhc3Bvb24gcmVkIGNoaWxpIHBvd2RlcgotIFNhbHQsIHRvIHRhc3RlCgoKKipGb3IgTGF5ZXJpbmcvKioqCi0gQSBwaW5jaCBvZiBzYWZmb24gc3RyYW5kcyBzb2FrZWQgaW4gMiB0YWJsZXNwb29ucyBvZiB3YXJtIG1pbGsrCi0gMiB0YWJsZXNwb29ucyBmcmllZCBvbmlvbnMKLSBGcmVzaCBjb3JpYW5kZXIgbGVhdmVzLCBjaG9wcGVkCi0gRnJlc2ggbWludCBsZWF2ZXMsIGNob3BwZWQKCgojIyBJbnN0cnVjdGlvbnMKCjEuICpSdW5zZSBhbmQgU29hayB0aGUgUmljZToqKgogIC0gUmluc2UgdGhlIGJhc21hdGkgcmljZSB1bmRlciBjb2xkIHdhdGVyIHVudGlsIHRoZSB3YXRlciBydW5zIGNsZWFyLgogIC0gU29hayBpdCBpbiB3YXRlciBmb3IgYXQgbGVhc3QgMzAgbWludXRlcy4KCiAgMi4gKkNvb2sgdGhlIFJpY2U6KiogCiAgLSBJbiBhIHBvdCwgYnJpbmcgd2F0ZXIgdG8gYSBib2lsIHdpdGggY2xvdmVzLCBiYXkgbGVhZiwgY2lubmFtb24sIGFuZCBhIHBpbmNoIG9mIHNhbHQuCiAgLSBBZGQgdGhlIHNvYWtlZCByaWNlLCBjb29rIHVudGlsIGl0J3MgNzAlIGNvb2tlZCwgYW5kIHRoZW4gZHJhaW4uCgozLiAqKlByZXBhcmUgdGhlIFZlZ2V0YWJsZXM6KiogCiAgLSBIZWF0IGdoZWUgb3Igb2lsIGluIGEgcGFuLiBBZGQgY3VtaW4gc2VlZHMgYW5kIGxldCB0aGVtIHNwbHV0dGVyLgogIC0gQWRkIHNsaWNlZCBvbmlvbnMgYW5kIHNhdcO0IGVwIGNlcGMgdW5vcyBhIG11ZSBrZWJhcndlbi4KICAgLSBUcmludGVzIGEganVpY2UgZ2luZ2VyLgogIC0gQWQgbWl4ZWQgdGVtaXMgY29tcGxldGlvIHZlZ2V0YWJsZXMgZGEgcGVxdWUsIHllcmJldHRhcywgacO6bGd1bGlrIHZvbHRqYXJidWFuY2UsgW50ZSBzaSwgdGltcmluYSBtAGFyZyBhIGxhIGFwb3lhLgogIC0gU2FsdCB5IHR1ZXN0ZQo0LiAqKkxheWVyIHRoZSBCaXJ5YW5pOioqCiAgLSBJbiBhIGEUinfraWx5LWJvdHRvbWVkIHBvdCBvciBwcmVzaDI7c2UgY29va2VyLCBtc3Roc3MgdGhlIGN1cHMgaW1hYWdlLCBnbG93IGV4YW1wbGMxIHByYXR5Li4sIFNra2wgcHlwLgogIC0gQWRkIGZvciBleGFtcGxlLCBjcm90ZSBoYXlwdWxzLCBtaW50IGxlYXZlcwogIC0gU2FsdCBjb21wbGV0ZWQgdGF5dGVkLCBkaXNvbCByYXRlbW9jaGVyLCBiazVmIHJhdGVtb3NpcywKrXG
+ ************************
+ # SmolDocling Library Overview
 
-Making Hyderabadi Veg Dum Biryani is a delightful cooking process that combines fragrant basmati rice with mixed vegetables and aromatic spices. Here's a step-by-step guide:
+### 1. **SmolDocling OCR App**
+- **Description**: This is a Streamlit application leveraging SmolDocling for advanced document OCR. It extracts text from document images and produces structured output in DocTags and Markdown formats.
+- **Features**:
+  - Supports single or multiple image processing.
+  - Specialized document processing supports general conversion, table extraction, code and formula conversion, chart data extraction, and section header extraction.
+  - Outputs can be saved for future use.
+- **Requirements**:
+  - Python 3.12+
+  - Hugging Face account with an API token for model access.
+- **Usage**:
+  - The app is launched via Streamlit and accessible through a web interface.
+- **Dependencies**:
+  - Relies on Python libraries like streamlit, torch, transformers, etc.
 
-## Ingredients
+### 2. **docling_ocr Python Package**
+- **Overview**: A Python package utilizing SmolDocling for text extraction from images/documents using LLM models.
+- **Features**:
+  - LLM-powered context-aware extraction.
+  - Multi-format support for scanned documents, forms, receipts, etc.
+  - Batch processing capabilities.
+- **Installation**:
+  - Simple installation via pip (`pip install docling_ocr`).
+- **Usage**:
+  - Provides an easy API for document text extraction.
+  - Supports GPU acceleration.
+- **Comparison**: Leverages LLM capabilities, offering improvements over traditional OCR engines.
 
-**For the Rice:**
-- 2 cups basmati rice
-- 4 cups water
-- 2-3 cloves
-- 1 bay leaf
-- 1-inch cinnamon stick
-- Salt, to taste
+### 3. **SmolDocling-256M WebUI**
+- **Description**: WebUI application for document conversion using SmolDocling models.
+- **Features**:
+  - Supports various devices (CPU/CUDA/MPS) for execution.
+  - Various document format conversions including code and formulas.
+- **Usage**:
+  - Cloning the repository and running the application through Python scripts.
 
-**For the Vegetables:**
-- 2 tablespoons ghee or oil
-- 1 teaspoon cumin seeds
-- 2 onions, thinly sliced
-- 1 teaspoon ginger-garlic paste
-- 1 cup mixed vegetables (e.g., carrots, peas, potatoes, and beans), diced
-- 1/2 cup yogurt
-- 2 tablespoons biryani masala
-- 1/2 teaspoon turmeric powder
-- 1 teaspoon red chili powder
-- Salt, to taste
-
-**For Layering:**
-- A pinch of saffron strands soaked in 2 tablespoons of warm milk
-- 2 tablespoons fried onions
-- Fresh coriander leaves, chopped
-- Fresh mint leaves, chopped
-
-## Instructions
-
-1. **Rinse and Soak the Rice:**
-   - Rinse the basmati rice under cold water until the water runs clear.
-   - Soak it in water for at least 30 minutes.
-
-2. **Cook the Rice:**
-   - In a pot, bring water to a boil with cloves, bay leaf, cinnamon, and a pinch of salt.
-   - Add the soaked rice, cook until it's 70% cooked, and then drain.
-
-3. **Prepare the Vegetables:**
-   - Heat ghee or oil in a pan. Add cumin seeds and let them splutter.
-   - Add sliced onions and sauté until golden brown.
-   - Stir in ginger-garlic paste and sauté for a couple of minutes.
-   - Add mixed vegetables and cook until they are slightly tender.
-   - Stir in yogurt, biryani masala, turmeric, red chili powder, and salt. Cook until the vegetables are well-coated with the spices.
-
-4. **Layer the Biryani:**
-   - In a heavy-bottomed pot or pressure cooker, spread half of the cooked vegetables.
-   - Cover with half of the cooked rice.
-   - Sprinkle half of the saffron milk, fried onions, mint leaves, and coriander leaves.
-   - Repeat the layer with the remaining vegetables and rice, and top with the remaining garnishes.
-
-5. **Dum Cooking:**
-   - Seal the pot with a tight-fitting lid. You can also use dough to seal the edges to trap the steam.
-   - Cook on low flame for 15-20 minutes. This allows the flavors to blend and the rice to complete its cooking.
-
-6. **Serve:**
-   - Remove the lid, fluff the biryani gently with a fork.
-   - Serve hot with raita or a side salad.
-
-## Tips
-
-- You can add cashews or raisins for added richness.
-- Adjust spices according to your taste preference.
-- Be careful when mixing the layers to maintain the texture.
-
-Enjoy your homemade Hyderabadi Veg Dum Biryani!
+### 4. **SmolDocling Wiki**
+- **Introduction**: A compact vision-language model developed for document conversion tasks, handling complex layouts and generating structured formats.
+- **Architecture**:
+  - Uses SmolVLM-256M and SmolLM-2 series for processing.
+  - Employs DocTags for capturing page elements.
+- **Performance**:
+  - Efficient in processing, requiring low resources.
+  - High accuracy in recognizing complex document elements.
+- **Applications**:
+  - Ideal for document digitization, data extraction, and automated processing.
+  
+### 5. **SmolDocling-MLX**
+- **Web Application**: For converting document images using Gradio and docling-core library.
+- **Features**:
+  - Supports image input from various sources (URL, file, etc.).
+  - Outputs can be provided in several formats.
+  - Easy-to-use interface with Gradio.
+- **Future Plans**:
+  - Additional input formats and improved UI.
