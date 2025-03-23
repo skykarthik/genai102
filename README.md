@@ -60,5 +60,4 @@ Making Hyderabadi Veg Dum Biryani is a delightful cooking process that combines 
    - Fluff the layered biryani gently with a fork.
    - Serve hot with raita or curry.
 
-HIIIIIIII
-HIIIIIIIII
+Biryani must always be served hot.
