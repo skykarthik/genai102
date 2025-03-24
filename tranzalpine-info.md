@@ -15,6 +15,12 @@ The train travels across the South Island from the Pacific Ocean to the Tasman S
 - Daily services during summer; operates four times a week during the winter season.
 - Optional upgrades for more comfort and premium service.
 
+## Pricing and Booking Information
+- Prices can start from as little as **$89 USD** one way, depending on the season and availability. Discounts and packages available.
+- To book, you can visit KiwiRail's [official booking site](https://booking.kiwirailscenic.co.nz/booknow.aspx) or call KiwiRail for assistance.
+
 ## Images
 ![TranzAlpine Train Views](https://upload.wikimedia.org/wikipedia/commons/1/1d/TranzAlpine_view.jpg)  
 ![TranzAlpine Interior](https://upload.wikimedia.org/wikipedia/commons/d/d8/TranzAlpine.JPG)
+
+For more information, you can explore [Great Journeys NZ](https://www.greatjourneysnz.com/scenic-trains/tranzalpine-train/) and alternative travel guides such as [Seat61](https://www.seat61.com/tranzalpine-train.htm) and [Loco Journeys](https://locojourneys.co.nz/tranzalpine-train-new-zealand/).
